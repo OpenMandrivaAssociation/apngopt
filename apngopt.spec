@@ -31,3 +31,10 @@ install -m 0644 readme.txt %{buildroot}%{_docdir}/%{name}/readme.txt
 %files 
 %doc readme.txt 
 %{_bindir}/%{name}
+
+
+%changelog
+* Thu Jan 12 2012 Alexander Khrukin <akhrukin@mandriva.org> 1.1-1
++ Revision: 760332
+- imported package apngopt
+
