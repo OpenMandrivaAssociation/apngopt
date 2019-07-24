@@ -18,7 +18,7 @@ Optimizes existing APNG animation.
 %setup -q -c apnopt
 
 %build
-%make
+%make CC=%{__cc}
 
 %install
 mkdir -p %{buildroot}%{_bindir}/%{name}
