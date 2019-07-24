@@ -1,7 +1,7 @@
 Summary:	optimize APNG images
 Name:		apngopt
-Version:	1.1
-Release:	2
+Version:	1.4
+Release:	1
 License:	zlib
 Group:		Graphics
 URL:		http://sourceforge.net/projects/apng/
