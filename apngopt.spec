@@ -4,7 +4,7 @@ Version:	1.4
 Release:	1
 License:	zlib
 Group:		Graphics
-URL:		http://sourceforge.net/projects/apng/
+URL:		https://sourceforge.net/projects/apng/
 Source0:	http://downloads.sourceforge.net/project/apng/APNG_Optimizer/1.4/apngopt-1.4-src.zip
 Buildrequires:	zlib-devel
 BuildRequires:	libpng-devel
